@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "beeper.h": "c",
+        "74hc165.h": "c",
+        "nrf24l01p.h": "c",
+        "taskconfig.h": "c",
+        "bsp_led.h": "c",
+        "delay.h": "c",
+        "pwm.h": "c",
+        "spi1.h": "c",
+        "task.h": "c",
+        "freertos.h": "c",
+        "bsp_debug_usart.h": "c",
+        "soft_iic_gpio.h": "c",
+        "inttypes.h": "c",
+        "iic_ee.h": "c"
+    }
+}
